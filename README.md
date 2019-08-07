@@ -11,7 +11,7 @@ For a detailed explanation on requirement, check out the [react native](https://
 
 ``` bash
 git clone https://github.com/haripermadi/userList.git
-cd booksapp
+cd userList
 npm install
 ```
 
